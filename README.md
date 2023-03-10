@@ -1,2 +1,4 @@
 # csharp
-csharp coding practice
+csharp coding practice 52 weeks training
+
+## References
